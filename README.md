@@ -150,6 +150,10 @@ EOF  all  create  destroy  help  quit  show  update
 (hbnb) quit
 ```
 
+0x06. AirBnB clone - Web dynamic
+
+1. added uuid for cache_id's to ensure the latest versions of any styles or changes are run in each session keeping the website up to date
+
 ## Bugs
 No known bugs at this time. 
 
